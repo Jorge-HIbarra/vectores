@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MP/zqIHJVwA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Graficas por Computadora\\LaboratorioSistemasVivos\\LaboratorioSistemasVivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

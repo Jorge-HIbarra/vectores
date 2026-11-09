@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Sistemas Vivos: compilar",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build"],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Sistemas Vivos: ejecutar",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Sistemas Vivos: pruebas numericas",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["run", "--", "--probar"],
+      "problemMatcher": []
+    }
+  ]
+}

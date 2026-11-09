@@ -1,0 +1,1 @@
+al editar velocidad 1 y 2 lo que cambia es el tiempo necesario para el movimiento. 
