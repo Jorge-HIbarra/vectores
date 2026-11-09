@@ -1,5 +1,18 @@
 # Laboratorio matemático de Sistemas Vivos
 
+
+<img width="1202" height="839" alt="image" src="https://github.com/user-attachments/assets/fe97f886-3a5a-4439-bcf2-0a319a5bbecd" />
+
+<img width="1202" height="839" alt="image" src="https://github.com/user-attachments/assets/bbec0201-f75f-46db-8802-ee4d592972bc" />
+
+
+
+
+
+
+
+
+
 Aplicación de apoyo para las cuatro prácticas. Console App de C# con .NET 8 y Raylib-cs 8.0.0. No contiene llamadas HTTP: lee datos simulados locales compatibles con el borrador de polinizadores. El contrato real y sus unidades se acuerdan con primero.
 
 ## Ejecución
